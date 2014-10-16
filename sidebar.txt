@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bvn:home|Door43 (bvn)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bvn|d43-bvn repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bvn/archive/master.zip|d43-bvn.zip]]
+
+**Recent Changes**
+{{changes>ns = bvn}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bvn|Ethnologue data]]
+
